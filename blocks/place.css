@@ -205,7 +205,6 @@
 @media screen and (max-width: 320px) {
     .place {
         display: grid;
-        grid-template-columns: min-content;
         grid-template-rows: repeat(6, auto);
         grid-gap: 30px;
         grid-template-areas: 
